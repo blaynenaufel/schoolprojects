@@ -1,0 +1,8 @@
+def
+  g = 45
+  if < g + 40 6
+    puts g
+  else
+    puts 6
+  end
+end
